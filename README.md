@@ -2,10 +2,10 @@
 
 Go library for downloading YouTube videos
 
-[![Documentation](https://godoc.org/github.com/rylio/ytdl?status.svg)](http://godoc.org/github.com/rylio/ytdl)
-[![Build Status](https://github.com/rylio/ytdl/workflows/build/badge.svg?branch=master)](https://github.com/rylio/ytdl/actions)
-[![Codecov](https://codecov.io/gh/rylio/ytdl/branch/master/graph/badge.svg)](https://codecov.io/gh/rylio/ytdl)
-[![Go ReportCard](http://goreportcard.com/badge/rylio/ytdl)](http://goreportcard.com/report/rylio/ytdl)
+[![Documentation](https://godoc.org/github.com/Andreychik32/ytdl?status.svg)](http://godoc.org/github.com/Andreychik32/ytdl)
+[![Build Status](https://github.com/Andreychik32/ytdl/workflows/build/badge.svg?branch=master)](https://github.com/Andreychik32/ytdl/actions)
+[![Codecov](https://codecov.io/gh/Andreychik32/ytdl/branch/master/graph/badge.svg)](https://codecov.io/gh/Andreychik32/ytdl)
+[![Go ReportCard](http://goreportcard.com/badge/Andreychik32/ytdl)](http://goreportcard.com/report/Andreychik32/ytdl)
 
 
 ## Example
@@ -44,7 +44,7 @@ func main() {
 
 ## ytdl CLI
 
-- To install: `go get -u github.com/rylio/ytdl/...`
+- To install: `go get -u github.com/Andreychik32/ytdl/...`
 
 - Or use Docker image `docker pull brucewangno1/ytdl:1.0`
 
